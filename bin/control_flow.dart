@@ -1,10 +1,10 @@
 void main() {
-  // pyramid(10);
-  // reversedPyramid(10);
-  // whileLooping(10);
-  // doWhileLooping(10);
-  // swicthCase(10,12,'*');
-  // isRaining(false);
+  pyramid(10);
+  reversedPyramid(10);
+  whileLooping(10);
+  doWhileLooping(10);
+  swicthCase(10,12,'*');
+  isRaining(false);
   findPrimeNumber(31);
 }
 
