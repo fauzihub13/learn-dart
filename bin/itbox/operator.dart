@@ -1,7 +1,6 @@
 void main() {
   int a = 5;
   int b = 9;
-  int hasil = 4;
 
   // OPERATOR ARITMATIKA
   var kali, kurang, bagi, modulus;
@@ -12,7 +11,7 @@ void main() {
   modulus = a % b;
 
   // OPERATOR PEMBANDING
-  
+
   if (kali > kurang) {
     print('Benar');
   } else {
